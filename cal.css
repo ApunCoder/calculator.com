@@ -1,0 +1,35 @@
+.calculator{
+    background-color: rgb(201, 196, 196);
+    display: inline-block;
+    border-radius: 9px;
+}
+.font{
+    font-size: 2.5rem;
+    color: rgb(9, 173, 238);
+}
+.size{
+    height: 5rem;
+    width: 5rem;
+}
+#div-show{
+    height: 4rem;
+    width: 20.6rem;
+}
+.show-answer{
+    margin: 20px 10px;
+    padding: 10px;
+    text-align: right;
+    font-size: 2.5rem;
+}
+.red{
+    background-color: rgb(228, 129, 129);
+    color: white;
+}
+.border{
+    border: 0px solid;
+    border-radius: 10px ;
+    margin: 1px 0px;
+}
+button:hover{
+    background-color: #ddd;
+}
